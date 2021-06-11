@@ -5,6 +5,6 @@ int main()
     int a, b, c;
     a = 2, b = 3;
     c = a + b;
-    cout << c << endl;
+    cout << "The Sum of 2 no is " << c << endl;
     return 0;
 }
